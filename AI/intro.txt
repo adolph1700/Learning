@@ -1,0 +1,29 @@
+#intro.txt
+Tensorflow
+	Responsive construct
+	Flexible
+	Easily Trainable
+	Parallel Neural Networking
+
+
+
+scikit learn
+	Associated with numpy and scipy
+	Handle complex data
+	cross validation(Use More than 1 metric and check accuracy of model)
+	Unsupervised Machine Learning(clustering ,Factor Analysis,Principal component Analysis)/ Neural Networks
+	Featuer extraction( Images and text)
+	Data Mining,Dimensionality Classification ,regression ,custering,model Selection
+
+
+Numpy
+	Tensorflow and other libraries make use of numpy internally
+	Array Interface(Multi Dimensional Array)
+	Numerical Analysis(makes complex mathematical expression simple,for statistical analysis)
+	makes concept Intuitive
+
+
+Theano
+	Uses multi dimensional array
+	Transparent use of GPU
+	Extensive unit testing and self verification
